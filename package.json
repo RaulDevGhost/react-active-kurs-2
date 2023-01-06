@@ -15,7 +15,9 @@
     "@react-navigation/native": "^5.x",
     "@react-navigation/stack": "^5.x",
     "expo": "~47.0.9",
+    "expo-constants": "^14.0.2",
     "expo-status-bar": "~1.4.2",
+    "lodash": "^4.17.21",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
@@ -27,7 +29,8 @@
     "react-native-web": "~0.18.9"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "react-native-dotenv": "^3.4.7"
   },
   "private": true
 }
